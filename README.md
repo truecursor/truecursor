@@ -5,7 +5,7 @@
 
 ## Status
 <!--STATUS_START-->
-Local causality secured. No Reading Steiner anomalies detected.<br>
+Stable. Observing anomalies. Logging results.<br>
 <!--STATUS_END-->
 
 ---
