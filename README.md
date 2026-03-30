@@ -5,7 +5,7 @@
 
 ## Status
 <!--STATUS_START-->
-Pilot link established. Neural signals nominal.<br>
+Stable. Observing anomalies. Logging results.<br>
 <!--STATUS_END-->
 
 ---
