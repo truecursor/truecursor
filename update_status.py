@@ -3,11 +3,11 @@ from pathlib import Path
 import re
 
 STATUSES = [
-    "Local causality secured. No Reading Steiner anomalies detected.<br>",
-    "Stable. Observing anomalies. Logging results.<br>",
-    "Pilot link established. Neural signals nominal.<br>",
-    "Parameter shift detected. Worldline classification pending.<br>",
-    "Core harmony detected. No pattern-blue signatures.<br>",
+    "cursor locked. executing.<br>",
+    "enhanced precision mode disabled.<br>",
+    "signal stable. iterating quietly.<br>",
+    "input → output.<br>",
+    "small commits, big ideas.<br>",
 ]
 
 readme_path = Path("README.md")
