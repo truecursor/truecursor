@@ -5,7 +5,7 @@
 
 ## Status
 <!--STATUS_START-->
-small commits, big ideas.<br>
+enhanced precision mode disabled.<br>
 <!--STATUS_END-->
 
 ---
