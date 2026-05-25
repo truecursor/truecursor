@@ -5,7 +5,7 @@
 
 ## Status
 <!--STATUS_START-->
-enhanced precision mode disabled.<br>
+input → output.<br>
 <!--STATUS_END-->
 
 ---
