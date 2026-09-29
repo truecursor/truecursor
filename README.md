@@ -5,7 +5,7 @@
 
 ## Status
 <!--STATUS_START-->
-signal stable. iterating quietly.<br>
+input → output.<br>
 <!--STATUS_END-->
 
 ---
