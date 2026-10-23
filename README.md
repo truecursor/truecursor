@@ -5,7 +5,7 @@
 
 ## Status
 <!--STATUS_START-->
-cursor locked. executing.<br>
+small commits, big ideas.<br>
 <!--STATUS_END-->
 
 ---
