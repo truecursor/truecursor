@@ -5,7 +5,7 @@
 
 ## Status
 <!--STATUS_START-->
-input → output.<br>
+small commits, big ideas.<br>
 <!--STATUS_END-->
 
 ---
