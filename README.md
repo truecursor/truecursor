@@ -5,7 +5,7 @@
 
 ## Status
 <!--STATUS_START-->
-small commits, big ideas.<br>
+signal stable. iterating quietly.<br>
 <!--STATUS_END-->
 
 ---
