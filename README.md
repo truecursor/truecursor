@@ -5,7 +5,7 @@
 
 ## Status
 <!--STATUS_START-->
-cursor locked. executing.<br>
+enhanced precision mode disabled.<br>
 <!--STATUS_END-->
 
 ---
