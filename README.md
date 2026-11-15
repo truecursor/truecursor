@@ -5,7 +5,7 @@
 
 ## Status
 <!--STATUS_START-->
-signal stable. iterating quietly.<br>
+enhanced precision mode disabled.<br>
 <!--STATUS_END-->
 
 ---
