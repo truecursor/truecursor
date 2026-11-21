@@ -5,7 +5,7 @@
 
 ## Status
 <!--STATUS_START-->
-cursor locked. executing.<br>
+signal stable. iterating quietly.<br>
 <!--STATUS_END-->
 
 ---
