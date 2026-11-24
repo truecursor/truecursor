@@ -5,7 +5,7 @@
 
 ## Status
 <!--STATUS_START-->
-input → output.<br>
+cursor locked. executing.<br>
 <!--STATUS_END-->
 
 ---
